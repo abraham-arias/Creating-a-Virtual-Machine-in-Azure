@@ -14,7 +14,7 @@ This tutorial outlines the prerequisites for creating a virtual machine through 
 
 - Step 1 - Sign in to the Azure Portal
 - Step 2 - Enter "virtual machines" in the search and select virtual machines
-  ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/148407820/278903538-752fe8c3-c4b3-41d2-afdf-8d27012a532d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T222611Z&X-Amz-Expires=300&X-Amz-Signature=2536e808b4ae36f203bfcface1bf2e71553d6bc4041622761dc724062746e9ed&X-Amz-SignedHeaders=host&actor_id=118127699&key_id=0&repo_id=711641284)
+  ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/148407820/278899934-4bbca0e8-e7cf-4569-8466-64a538f12705.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T223327Z&X-Amz-Expires=300&X-Amz-Signature=d6514effd41968968d5551c7f22362009ac9e34af8d1b154c84194eeb5e19bf1&X-Amz-SignedHeaders=host&actor_id=118127699&key_id=0&repo_id=711641284)
 
 - Step 3 - Under create, select "create a virtual machine hosted by azure"
   ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/148407820/278903538-752fe8c3-c4b3-41d2-afdf-8d27012a532d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T222611Z&X-Amz-Expires=300&X-Amz-Signature=2536e808b4ae36f203bfcface1bf2e71553d6bc4041622761dc724062746e9ed&X-Amz-SignedHeaders=host&actor_id=118127699&key_id=0&repo_id=711641284)
