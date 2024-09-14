@@ -1,5 +1,3 @@
-# Creating-a-Virtual-Machine-in-Azure
-
 <h1>Creating a Virtual Machine in Azure</h1>
 This tutorial outlines the prerequisites for creating a virtual machine through Microsoft Azure.<br />
 
